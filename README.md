@@ -19,9 +19,9 @@ A high-end, visually immersive official website and direct online reservation pl
 * **Design Elements:** Structured 50/50 column layouts showcasing the resort's premium suites (`Deluxe Sea View Suite` & `Executive Sunset Suite`), paired with direct booking pathways.
 ![Accomodations Preview](Accomodations.png)
 
-### 3. Booking Engine / Checkout Flow (`Book Now.png`)
+### 3. Booking Engine / Checkout Flow (`Book-Now.png`)
 * **Design Elements:** Integrated Amelia Booking interface providing seamless room selection, real-time pricing, and instant reservation capabilities for resort guests.
-![Booking Preview](Book Now.png)
+![Booking Preview](Book-Now.png)
 
 ---
 
