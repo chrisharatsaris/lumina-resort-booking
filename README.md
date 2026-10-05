@@ -35,10 +35,10 @@ Instant Direct Bookings: Fully integrated reservation workflows allowing guests 
 
 📂 Repository Structure
 Plaintext
-├── Screenshots/
-│   ├── Home.png         # Homepage overview of Lumina Resort
-│   ├── Accomodations.png # Suites showcase & 50/50 layout
-│   └── Book Now.png      # Direct Amelia reservation interface
+
+├── Home.png         # Homepage overview of Lumina Resort
+├── Accomodations.png # Suites showcase & 50/50 layout
+└── Book Now.png      # Direct Amelia reservation interface
 └── README.md             # Project documentation
 Developed with attention to high-end hospitality aesthetics and frictionless direct booking functionality.# lumina-resort-booking
 Official website and direct online reservation platform for Lumina Resort, built with WordPress and Amelia Booking, featuring high-end luxury aesthetics and symmetrical room showcases.
