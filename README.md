@@ -13,11 +13,11 @@ A high-end, visually immersive official website and direct online reservation pl
 
 ### 1. Homepage (`Home.png`)
 * **Design Elements:** Full-width immersive Cover block featuring a high-resolution coastal aesthetic, elegant typography, and a prominent luxury-styled Call to Action (`Book Now`).
-![Home Preview](Home.jpg)
+![Home Preview](Home.png)
 
 ### 2. Accommodations Page (`Accomodations.png`)
 * **Design Elements:** Structured 50/50 column layouts showcasing the resort's premium suites (`Deluxe Sea View Suite` & `Executive Sunset Suite`), paired with direct booking pathways.
-![Accomodations Preview](Accomodations.jpg)
+![Accomodations Preview](Accomodations.png)
 
 ### 3. Booking Engine / Checkout Flow (`Book Now.png`)
 * **Design Elements:** Integrated Amelia Booking interface providing seamless room selection, real-time pricing, and instant reservation capabilities for resort guests.
@@ -43,7 +43,7 @@ A high-end, visually immersive official website and direct online reservation pl
 
 ## 📂 Repository Structure
 ```text
-├── Home.jpg          # Homepage overview of Lumina Resort
-├── Accomodations.jpg # Suites showcase & 50/50 layout
-├── Book Now.jpg      # Direct Amelia reservation interface
+├── Home.png          # Homepage overview of Lumina Resort
+├── Accomodations.png # Suites showcase & 50/50 layout
+├── Book Now.png      # Direct Amelia reservation interface
 └── README.md         # Project documentation
